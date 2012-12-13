@@ -1,0 +1,1114 @@
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:35:54  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:35:54  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:35:54  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:37:13  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:37:13  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:37:13  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:37:21  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:37:21  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:37:21  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:37:21  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-10',1,1)
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:38:34  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:38:34  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:38:34  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:38:34  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:38:43  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:38:43  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:38:43  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:38:43  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:38:56  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:38:56  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:38:56  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:38:56  -- conDb.baby_diapers   +++ LOG   +++ UPDATE baby_diapers SET diaper_date = '2012-11-10',diaper_1 = 1,diaper_weight = 12,feed_date = '2012-11-10 02:30' WHERE diaper_id = 1
+2012-11-10 06:38:56  -- conDb.baby_diapers   +++ ERROR +++ Unknown column 'feed_date' in 'field list'
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:39:02  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:39:02  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:39:02  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:39:02  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:39:34  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:39:34  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:39:34  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:39:34  -- conDb.baby_diapers   +++ LOG   +++ UPDATE baby_diapers SET diaper_date = '2012-11-10 02:30',diaper_1 = 1,diaper_weight = 12 WHERE diaper_id = 1
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:39:40  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:39:40  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:39:40  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:39:40  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:39:53  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:39:53  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:39:53  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:40:04  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:40:04  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:40:04  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:04  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_2) VALUES ('2012-11-29 02:22',1)
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:40:10  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:40:10  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:40:10  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:10  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:40:12  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:40:12  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:40:12  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:12  -- conDb.baby_diapers   +++ LOG   +++ DELETE FROM baby_diapers WHERE diaper_id = 1
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:40:14  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:40:14  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:40:14  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:14  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 2
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:40:15  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:40:15  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:40:15  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:40:15  -- conDb.baby_diapers   +++ LOG   +++ DELETE FROM baby_diapers WHERE diaper_id = 2
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:06  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:06  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:06  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:20  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:20  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:20  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:26  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:26  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:26  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:46  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:46  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:46  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:47  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:47  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:47  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:43:54  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:43:54  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:43:54  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:43:54  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_weight) VALUES ('2012-11-10 18:43:47 ',1,2)
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:10  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:10  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:10  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:12  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:12  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:12  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:18  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:18  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:18  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:18  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_2,diaper_weight) VALUES ('2012-11-10 18:44:12 ',1,222)
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:26  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:26  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:26  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:26  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 4
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:27  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:27  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:27  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:27  -- conDb.baby_diapers   +++ LOG   +++ DELETE FROM baby_diapers WHERE diaper_id = 4
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:29  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:29  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:29  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:29  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 3
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 06:44:31  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 06:44:31  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 06:44:31  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 06:44:31  -- conDb.baby_diapers   +++ LOG   +++ DELETE FROM baby_diapers WHERE diaper_id = 3
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 07:38:52  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 07:38:52  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 07:38:52  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-10 07:38:59  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-10 07:38:59  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-10 07:38:59  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-10 07:38:59  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-10 19:38',1,1)
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 10:01:41  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 10:01:41  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 10:01:41  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 10:01:48  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 10:01:48  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 10:01:48  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 10:01:48  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-11 10:01',1,1)
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 10:01:50  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 10:01:50  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 10:01:50  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 10:01:57  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 10:01:57  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 10:01:57  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 10:01:57  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-11 10:01',1,1)
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 01:43:57  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 01:43:57  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 01:43:57  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 01:44:03  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 01:44:03  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 01:44:03  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 01:44:03  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-11 13:44',1,1)
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 01:44:06  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 01:44:06  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 01:44:06  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-11 01:44:13  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-11 01:44:13  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-11 01:44:13  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-11 01:44:13  -- conDb.baby_diapers   +++ LOG   +++ INSERT INTO baby_diapers (diaper_date,diaper_1,diaper_2) VALUES ('2012-11-11 13:44',1,1)
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_babies.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_babies.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++  Loading [baby_users.class.php]..
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ [baby_users.class.php] loaded successfully.
+2012-11-14 11:25:35  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-14 11:25:35  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-14 11:25:35  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-14 11:25:35  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 6
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [error.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [error.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [log.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [cache.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [cache.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_feedings.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_feedings.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [config.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [static.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [static.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_rx_log.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_rx_log.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_rx.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_rx.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_weight_log.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_weight_log.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_diapers.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_diapers.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_babies.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_babies.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++  Loading [baby_users.class.php]..
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ [baby_users.class.php] loaded successfully.
+2012-11-14 11:26:22  -- .                    +++ LOG   +++ Loaded successfully.
+2012-11-14 11:26:22  -- conDb.baby_diapers   +++ LOG   +++ Connecting to bionet@localhost/baby_db
+2012-11-14 11:26:22  -- conDb.baby_diapers   +++ LOG   +++ SHOW COLUMNS FROM baby_diapers
+2012-11-14 11:26:22  -- conDb.baby_diapers   +++ LOG   +++ SELECT * FROM baby_diapers WHERE diaper_id = 6
